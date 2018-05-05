@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XibFileLoader_Tests' do
+  pod 'XibFileLoader', :path => '../'
+  
+  
+end
