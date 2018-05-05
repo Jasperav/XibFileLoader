@@ -1,0 +1,16 @@
+PODS:
+  - XibFileLoader (0.1.0)
+
+DEPENDENCIES:
+  - XibFileLoader (from `../`)
+
+EXTERNAL SOURCES:
+  XibFileLoader:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XibFileLoader: 5d9f548c6c06991784c8ca5e64fc34e8eaab6fd5
+
+PODFILE CHECKSUM: 317d44264a34eff3a2ad8e9ee1f21dace0ac2f0f
+
+COCOAPODS: 1.5.0

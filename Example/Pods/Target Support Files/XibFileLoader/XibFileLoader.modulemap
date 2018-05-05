@@ -1,0 +1,6 @@
+framework module XibFileLoader {
+  umbrella header "XibFileLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
